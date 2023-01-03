@@ -33,8 +33,12 @@ MrigeshDeshpande/MrigeshDeshpande is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
+
+
 [![mrigesh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MrigeshDeshpande&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrigeshDeshpande&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 💬 ask me about anything, i am happy to help;
+
+![](https://komarev.com/ghpvc/?username=MrigeshDeshpande&color=blue)
