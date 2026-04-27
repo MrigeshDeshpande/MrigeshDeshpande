@@ -1,45 +1,59 @@
-<a href="https://hackerrank.com/mrigeshdeshpande" target="_blank" rel="nofollow">
-  <img align="right" alt="Mrigesh's hackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<a href="https://www.linkedin.com/in/mrigeshdeshpande" target="_blank" rel="nofollow">
-  <img align="right" alt="Mrigesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://leetcode.com/mrigeshdeshpande246/" target="_blank" rel="nofollow">
-  <img align="right" alt="Mrigesh's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
- 
- ## Hi 👋 I am Mrigesh Deshpande! 
- 
- Hi, i'm Mrigesh Deshpande, a passionate self-taught full stack web developer and a freelance software engineer from India.
- I have been working with both backend and full stack frameworks, I have also built my own projects using MER(A)N, Python, and Java.
- 
- My enthusiasm for software stems from conceiving up concepts and making them a reality via efficient user experience, 
- which lead me to write research papers on NLP and automation.
- I take great care in the experience, architecture, and code quality of the things I build.
+<h1 align="center">Mrigesh Deshpande</h1>
 
-I learned a lot from the open-source community and love contributing.
+<p align="center">
+  Backend-leaning Fullstack Developer · India
+</p>
 
+<p align="center">
+  <a href="https://github.com/MrigeshDeshpande">
+    <img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mrigeshdeshpande">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
+---
 
-💼 any freelance work? do reach, email :)
+### About
 
+I build web applications with a heavy focus on backend reliability and clean architecture. I prefer writing "human" code—descriptive, organized, and focused on solving the problem without unnecessary abstractions.
 
+I spend most of my time working within the **MERN stack**, specifically focusing on how data flows between services and ensuring system integrity.
 
-<!-- -  👋 Hi, I’m @MrigeshDeshpande
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me deshpandemrigesh@gmail.com -->
+---
 
-<!---
-MrigeshDeshpande/MrigeshDeshpande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🏗️ Skillyards (Production)
 
+A live ed-tech platform architected as a monorepo. This is where I deal with real-world constraints and production data.
 
+- **Monorepo Architecture:** Managing multiple apps (ERP, CMS, Website) sharing a single database layer using **Drizzle ORM**.
+- **Decoupled PDF Service:** Offloaded heavy document generation to a separate service using Playwright and Cloudflare R2 to keep the main API responsive.
+- **Data Logic:** Implemented transaction-based fee management using a single-source-of-truth ledger to prevent data drift.
+- **Authorization:** Handling RBAC across different user segments (Admin, Sales, Students).
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrigeshDeshpande&show_icons=true&theme=radical&bg_color=4A569D&title_color=232526) -->
+---
 
-💬 ask me about anything, i am happy to help;
+### 🧠 Logic & Workflow
 
-![](https://komarev.com/ghpvc/?username=MrigeshDeshpande&color=blue)
+- **Predictability:** I write code that handles edge cases and failures gracefully, not just the happy path.
+- **Clean Stack:** I favor **PostgreSQL** and **TypeScript** for type-safety, but I’m equally comfortable with **MongoDB** for flexible schemas.
+- **Performance:** Using tools like **GSAP** for UI when needed, but keeping the core logic lean and efficient.
+
+---
+
+### 🧰 Tech Stack
+
+- **Languages:** JavaScript (ES6+), TypeScript, Node.js
+- **Database:** PostgreSQL, MongoDB, Sanity
+- **Frameworks:** Next.js, React, Express
+- **Tools:** Drizzle ORM, Prisma, Cloudflare, Vercel
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrigeshDeshpande&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrigeshDeshpande&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
