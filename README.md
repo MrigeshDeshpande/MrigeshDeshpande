@@ -16,14 +16,12 @@
 ---
 
 ### About
-
-I build web applications with a heavy focus on backend reliability and clean architecture. I prefer writing "human" code—descriptive, organized, and focused on solving the problem without unnecessary abstractions.
-
-I spend most of my time working within the **MERN stack**, specifically focusing on how data flows between services and ensuring system integrity.
+I build web applications with a focus on backend reliability and gradually improving architecture. I care about how systems behave in real use, not just how they’re implemented.
+I primarily work in the MERN stack, focusing on data flow, async workflows, and keeping systems consistent and maintainable over time. I prefer writing clear, structured code that solves problems without unnecessary abstraction.
 
 ---
 
-### 🏗️ Skillyards (Production)
+### Skillyards (Production)
 
 A live ed-tech platform architected as a monorepo. This is where I deal with real-world constraints and production data.
 
@@ -34,7 +32,7 @@ A live ed-tech platform architected as a monorepo. This is where I deal with rea
 
 ---
 
-### 🧠 Logic & Workflow
+### Logic & Workflow
 
 - **Predictability:** I write code that handles edge cases and failures gracefully, not just the happy path.
 - **Clean Stack:** I favor **PostgreSQL** and **TypeScript** for type-safety, but I’m equally comfortable with **MongoDB** for flexible schemas.
@@ -42,7 +40,7 @@ A live ed-tech platform architected as a monorepo. This is where I deal with rea
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 - **Languages:** JavaScript (ES6+), TypeScript, Node.js
 - **Database:** PostgreSQL, MongoDB, Sanity
