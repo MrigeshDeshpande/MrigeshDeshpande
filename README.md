@@ -15,43 +15,27 @@
 
 ---
 
-### About
-I build web applications with a focus on backend reliability and gradually improving architecture. I care about how systems behave in real use, not just how they’re implemented.
-I primarily work in the MERN stack, focusing on data flow, async workflows, and keeping systems consistent and maintainable over time. I prefer writing clear, structured code that solves problems without unnecessary abstraction.
+### Professional Work: Skillyards
 
----
+I maintain an ed-tech platform architected as a monorepo, focusing on system reliability and data consistency.
 
-### Skillyards (Production)
-
-A live ed-tech platform architected as a monorepo. This is where I deal with real-world constraints and production data.
-
-- **Monorepo Architecture:** Managing multiple apps (ERP, CMS, Website) sharing a single database layer using **Drizzle ORM**.
-- **Decoupled PDF Service:** Offloaded heavy document generation to a separate service using Playwright and Cloudflare R2 to keep the main API responsive.
-- **Data Logic:** Implemented transaction-based fee management using a single-source-of-truth ledger to prevent data drift.
-- **Authorization:** Handling RBAC across different user segments (Admin, Sales, Students).
-
----
-
-### Logic & Workflow
-
-- **Predictability:** I write code that handles edge cases and failures gracefully, not just the happy path.
-- **Clean Stack:** I favor **PostgreSQL** and **TypeScript** for type-safety, but I’m equally comfortable with **MongoDB** for flexible schemas.
-- **Performance:** Using tools like **GSAP** for UI when needed, but keeping the core logic lean and efficient.
-
----
+- **Infrastructure:** Managing ERP, CMS, and student-facing apps sharing a unified database layer via **Drizzle ORM**.
+- **Microservices:** Developed a decoupled PDF generation service using **Puppeteer** and **Cloudflare R2** to reduce main API load.
+- **Data Integrity:** Built a transaction-based ledger system for fee management to prevent data drift.
+- **Auth:** Implementing RBAC/ABAC models for Admins, Sales, and Students.
 
 ### Tech Stack
 
-- **Languages:** JavaScript (ES6+), TypeScript, Node.js
-- **Database:** PostgreSQL, MongoDB, Sanity
+- **Core:** Node.js, TypeScript, JavaScript (ES6+)
 - **Frameworks:** Next.js, React, Express
-- **Tools:** Drizzle ORM, Prisma, Cloudflare, Vercel
+- **Database/ORM:** PostgreSQL, MongoDB, Drizzle, Prisma
+- **Cloud/Tools:** Cloudflare R2, Vercel, Sanity
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrigeshDeshpande&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrigeshDeshpande&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrigeshDeshpande&layout=compact&theme=tokyonight&hide_border=true" width="36%" />
 </p>
