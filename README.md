@@ -15,24 +15,30 @@
 
 ---
 
-### Professional Work: Skillyards
+### Systems I Build
 
-I maintain an ed-tech platform architected as a monorepo, focusing on system reliability and data consistency.
+I work on production-grade systems focused on reliability, operational workflows, and scalable backend architecture.
 
-- **Infrastructure:** Managing ERP, CMS, and student-facing apps sharing a unified database layer via **Drizzle ORM**.
-- **Microservices:** Developed a decoupled PDF generation service using **Puppeteer** and **Cloudflare R2** to reduce main API load.
-- **Data Integrity:** Built a transaction-based ledger system for fee management to prevent data drift.
-- **Auth:** Implementing RBAC/ABAC models for Admins, Sales, and Students.
+- **Infrastructure:** Maintaining ERP, CMS, and student-facing platforms within a monorepo architecture sharing a unified database layer via **Drizzle ORM**.
+- **Microservices:** Built a decoupled PDF generation service using **Puppeteer** and **Cloudflare R2** to offload heavy processing from the main API.
+- **Data Integrity:** Developed a transaction-based ledger system for fee management to prevent financial data drift.
+- **Workflow Systems:** Developing WhatsApp-integrated automation flows for lead management, notifications, and operational workflows.
+- **Auth & Access Control:** Implementing RBAC/ABAC models for Admins, Sales teams, and Students.
 
 ### Tech Stack
 
 - **Core:** Node.js, TypeScript, JavaScript (ES6+)
 - **Frameworks:** Next.js, React, Express
-- **Database/ORM:** PostgreSQL, MongoDB, Drizzle, Prisma
-- **Cloud/Tools:** Cloudflare R2, Vercel, Sanity.IO
+- **Database/ORM:** PostgreSQL, MongoDB, Drizzle ORM, Prisma
+- **Cloud/Infra:** Cloudflare R2, Vercel
+- **CMS & Tooling:** Sanity.io, Puppeteer
 
+### Engineering Interests
 
-<!-- <p align="center">
+Backend architecture · Distributed workflows · System reliability · Automation systems 
+<!--
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrigeshDeshpande&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrigeshDeshpande&layout=compact&theme=tokyonight&hide_border=true" width="36%" />
-</p> -->
+</p>
+-->
