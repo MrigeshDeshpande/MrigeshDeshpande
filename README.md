@@ -29,13 +29,10 @@ I maintain an ed-tech platform architected as a monorepo, focusing on system rel
 - **Core:** Node.js, TypeScript, JavaScript (ES6+)
 - **Frameworks:** Next.js, React, Express
 - **Database/ORM:** PostgreSQL, MongoDB, Drizzle, Prisma
-- **Cloud/Tools:** Cloudflare R2, Vercel, Sanity
+- **Cloud/Tools:** Cloudflare R2, Vercel, Sanity.IO
 
----
 
-### 📊 Stats
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrigeshDeshpande&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrigeshDeshpande&layout=compact&theme=tokyonight&hide_border=true" width="36%" />
-</p>
+</p> -->
