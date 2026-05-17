@@ -1,7 +1,7 @@
 <h1 align="center">Mrigesh Deshpande</h1>
 
 <p align="center">
-  Backend-leaning Fullstack Developer · India
+  Backend-Focused Fullstack Developer · India
 </p>
 
 <p align="center">
